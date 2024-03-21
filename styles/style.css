@@ -24,7 +24,7 @@
     word-spacing: 30px;
     letter-spacing: 20px;
 }
-.article{
+.article , #cow-type{
     /* margin-right: 100px;
     margin-left: 100px; */
     width: 80%;
@@ -33,10 +33,10 @@
     margin-top: 60px;
     margin-bottom: 60px; */
     margin: 60px auto;
-    padding: 20px;
-    background-color: rgb(123, 212, 212);
+    padding: 60px;
+    background-color: rgb(139, 176, 83);
     border-width: 10px;
-    border-color: bisque ;
+    border-color: yellow ;
     border-style: solid;
 
 
@@ -47,7 +47,7 @@
     font-size: 35px;
     font-family: cursive;
     border-style: solid;
-    border-color: yellowgreen;
+    border-color: rgb(205, 76, 50);
     border-top: 0px;
     border-left: 0px;
     border-right: 0px;
